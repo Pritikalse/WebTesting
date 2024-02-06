@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-01T18:02:27 IST" name="Suite" finished-at="2024-02-01T18:03:23 IST" duration-ms="55596">
+    <groups>
+    </groups>
+    <test started-at="2024-02-01T18:02:27 IST" name="Test" finished-at="2024-02-01T18:03:23 IST" duration-ms="55596">
+      <class name="com.aut.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.aut.qa.testcases.HomePageTest@6b88ca8c]" started-at="2024-02-01T18:02:27 IST" name="setup" finished-at="2024-02-01T18:02:30 IST" duration-ms="3518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateHeading()[pri:1, instance:com.aut.qa.testcases.HomePageTest@6b88ca8c]" started-at="2024-02-01T18:02:30 IST" name="ValidateHeading" finished-at="2024-02-01T18:02:31 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateHeading -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.aut.qa.testcases.HomePageTest@6b88ca8c]" started-at="2024-02-01T18:02:31 IST" name="teardown" finished-at="2024-02-01T18:02:31 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.aut.qa.testcases.HomePageTest@6b88ca8c]" started-at="2024-02-01T18:02:31 IST" name="setup" finished-at="2024-02-01T18:02:33 IST" duration-ms="2441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyisBackPaeAddToCartButtonDisplayed()[pri:2, instance:com.aut.qa.testcases.HomePageTest@6b88ca8c]" started-at="2024-02-01T18:02:33 IST" name="verifyisBackPaeAddToCartButtonDisplayed" finished-at="2024-02-01T18:02:33 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyisBackPaeAddToCartButtonDisplayed -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.aut.qa.testcases.HomePageTest@6b88ca8c]" started-at="2024-02-01T18:02:33 IST" name="teardown" finished-at="2024-02-01T18:02:34 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.aut.qa.testcases.HomePageTest@6b88ca8c]" started-at="2024-02-01T18:02:34 IST" name="setup" finished-at="2024-02-01T18:02:36 IST" duration-ms="2438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyItemAddedIntoCart()[pri:3, instance:com.aut.qa.testcases.HomePageTest@6b88ca8c]" started-at="2024-02-01T18:02:36 IST" name="verifyItemAddedIntoCart" finished-at="2024-02-01T18:02:36 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyItemAddedIntoCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.aut.qa.testcases.HomePageTest@6b88ca8c]" started-at="2024-02-01T18:02:36 IST" name="teardown" finished-at="2024-02-01T18:02:36 IST" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.aut.qa.testcases.HomePageTest -->
+      <class name="com.aut.qa.testcases.CheckOut_Test">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.aut.qa.testcases.CheckOut_Test@53fd0d10]" started-at="2024-02-01T18:02:42 IST" name="Setup" finished-at="2024-02-01T18:02:45 IST" duration-ms="2749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyEnterDatails(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.aut.qa.testcases.CheckOut_Test@53fd0d10]" started-at="2024-02-01T18:02:45 IST" name="VerifyEnterDatails" data-provider="GetData" finished-at="2024-02-01T18:02:50 IST" duration-ms="5333" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[priti]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kalse]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[411012.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEnterDatails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.aut.qa.testcases.CheckOut_Test@53fd0d10]" started-at="2024-02-01T18:02:50 IST" name="tearDown" finished-at="2024-02-01T18:02:51 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.aut.qa.testcases.CheckOut_Test@53fd0d10]" started-at="2024-02-01T18:02:51 IST" name="Setup" finished-at="2024-02-01T18:02:54 IST" duration-ms="3053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyEnterDatails(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.aut.qa.testcases.CheckOut_Test@53fd0d10]" started-at="2024-02-01T18:02:54 IST" name="VerifyEnterDatails" data-provider="GetData" finished-at="2024-02-01T18:02:59 IST" duration-ms="5408" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pooja]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pare]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[411013.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEnterDatails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.aut.qa.testcases.CheckOut_Test@53fd0d10]" started-at="2024-02-01T18:02:59 IST" name="tearDown" finished-at="2024-02-01T18:03:00 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.aut.qa.testcases.CheckOut_Test@53fd0d10]" started-at="2024-02-01T18:03:00 IST" name="Setup" finished-at="2024-02-01T18:03:02 IST" duration-ms="2804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyEnterDatails(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.aut.qa.testcases.CheckOut_Test@53fd0d10]" started-at="2024-02-01T18:03:02 IST" name="VerifyEnterDatails" data-provider="GetData" finished-at="2024-02-01T18:03:08 IST" duration-ms="5359" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prasad]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kalse]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[411015.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEnterDatails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.aut.qa.testcases.CheckOut_Test@53fd0d10]" started-at="2024-02-01T18:03:08 IST" name="tearDown" finished-at="2024-02-01T18:03:08 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.aut.qa.testcases.CheckOut_Test@53fd0d10]" started-at="2024-02-01T18:03:08 IST" name="Setup" finished-at="2024-02-01T18:03:11 IST" duration-ms="2698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyEnterDatails(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.aut.qa.testcases.CheckOut_Test@53fd0d10]" started-at="2024-02-01T18:03:11 IST" name="VerifyEnterDatails" data-provider="GetData" finished-at="2024-02-01T18:03:16 IST" duration-ms="5328" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[divya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mavkar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[411016.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEnterDatails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.aut.qa.testcases.CheckOut_Test@53fd0d10]" started-at="2024-02-01T18:03:16 IST" name="tearDown" finished-at="2024-02-01T18:03:16 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.aut.qa.testcases.CheckOut_Test -->
+      <class name="com.aut.qa.testcases.loginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.aut.qa.testcases.loginPageTest@535779e4]" started-at="2024-02-01T18:02:36 IST" name="setup" finished-at="2024-02-01T18:02:39 IST" duration-ms="2120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateLogibPageTitile()[pri:1, instance:com.aut.qa.testcases.loginPageTest@535779e4]" started-at="2024-02-01T18:02:39 IST" name="ValidateLogibPageTitile" finished-at="2024-02-01T18:02:39 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLogibPageTitile -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.aut.qa.testcases.loginPageTest@535779e4]" started-at="2024-02-01T18:02:39 IST" name="tearDown" finished-at="2024-02-01T18:02:39 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.aut.qa.testcases.loginPageTest@535779e4]" started-at="2024-02-01T18:02:39 IST" name="setup" finished-at="2024-02-01T18:02:41 IST" duration-ms="2041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatelogin()[pri:2, instance:com.aut.qa.testcases.loginPageTest@535779e4]" started-at="2024-02-01T18:02:41 IST" name="validatelogin" finished-at="2024-02-01T18:02:41 IST" depends-on-methods="com.aut.qa.testcases.loginPageTest.ValidateLogibPageTitile" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatelogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.aut.qa.testcases.loginPageTest@535779e4]" started-at="2024-02-01T18:02:41 IST" name="tearDown" finished-at="2024-02-01T18:02:42 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.aut.qa.testcases.loginPageTest -->
+      <class name="com.aut.qa.testcases.YourCartPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.aut.qa.testcases.YourCartPage@6c0d9d86]" started-at="2024-02-01T18:03:16 IST" name="setup" finished-at="2024-02-01T18:03:19 IST" duration-ms="2796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHeading()[pri:1, instance:com.aut.qa.testcases.YourCartPage@6c0d9d86]" started-at="2024-02-01T18:03:19 IST" name="verifyHeading" finished-at="2024-02-01T18:03:19 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeading -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:com.aut.qa.testcases.YourCartPage@6c0d9d86]" started-at="2024-02-01T18:03:19 IST" name="tearDwon" finished-at="2024-02-01T18:03:19 IST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.aut.qa.testcases.YourCartPage@6c0d9d86]" started-at="2024-02-01T18:03:19 IST" name="setup" finished-at="2024-02-01T18:03:22 IST" duration-ms="2855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifycheckoutBTNisdisplayed()[pri:2, instance:com.aut.qa.testcases.YourCartPage@6c0d9d86]" started-at="2024-02-01T18:03:22 IST" name="verifycheckoutBTNisdisplayed" finished-at="2024-02-01T18:03:22 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycheckoutBTNisdisplayed -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:com.aut.qa.testcases.YourCartPage@6c0d9d86]" started-at="2024-02-01T18:03:22 IST" name="tearDwon" finished-at="2024-02-01T18:03:23 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+      </class> <!-- com.aut.qa.testcases.YourCartPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
